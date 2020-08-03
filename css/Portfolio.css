@@ -1,0 +1,30 @@
+body{
+    background-color:#cedebd ;
+}
+img{
+    height:200px;
+    width:200px;
+}
+h1{
+    color:#3ca59d;
+    font-family:Trattatello;
+    text-align: center;
+
+    }
+h2{
+    font-family:Trattatello;
+    font-size:20px;
+    color: #3ca59d;
+    text-align: center;
+}
+h3{
+    font-family:Trattatello;
+    font-size:20px;
+    color: #3ca59d;
+    text-align: center;
+}
+p{
+    font-family:Gill Sans, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
